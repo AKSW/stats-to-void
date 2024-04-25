@@ -62,8 +62,8 @@
 		</developer>
 	</developers>
 	<properties>
-		<jena.version>4.8.0</jena.version>
-		<jenax.version>4.8.0-3-SNAPSHOT</jenax.version>
+		<jena.version>5.0.0-SNAPSHOT</jena.version>
+		<jenax.version>5.0.0-2-SNAPSHOT</jenax.version>
 		<log4j.version>2.20.0</log4j.version>
 		<timestamp>${maven.build.timestamp}</timestamp>
 		<maven.build.timestamp.format>yyyy-MM-dd HH:mm</maven.build.timestamp.format>
